@@ -1,1 +1,1 @@
-# -VOID-Masters-2026
+# VOID-Masters-2026
