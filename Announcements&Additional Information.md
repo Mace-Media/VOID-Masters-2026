@@ -16,7 +16,7 @@
 ## Registration Process
 - **Registration Window**: November 3 ‑ November 22, 2026
 -  The registration link will be published on November 3 via MACE MEDIA Github and official social‑media channels.
-- **Registration Fee**: **$900 USD**
+- **Registration Fee**: **$800 USD**
 - Fill the official team application form:
 - Full list of registered teams:
 1. All tournament‑related communications will be sent exclusively to the email address provided on the registration form.
