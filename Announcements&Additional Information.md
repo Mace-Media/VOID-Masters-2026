@@ -1,7 +1,7 @@
 ## VOID Masters 2026
 
 ## Event Dates
-- **Online Play‑In**: November 30 ‑ December 3, 2026 
+- **Online Play‑In**: November 29 ‑ December 2, 2026 
 
 - **LAN Main Event**: December 25 ‑ December 30, 2026
 
@@ -14,7 +14,7 @@
 - Initial seeding will be determined according to the official November 2026 Global VRS.
 
 ## Registration Process
-- **Registration Window**: November 3 ‑ November 10, 2026
+- **Registration Window**: November 3 ‑ November 22, 2026
 -  The registration link will be published on November 3 via MACE MEDIA Github and official social‑media channels.
 - **Registration Fee**: **$800 USD**
 1. All tournament‑related communications will be sent exclusively to the email address provided on the registration form.
@@ -25,14 +25,12 @@
 
 4. If exactly 8 teams register, the Play‑In stage will be cancelled; 2 low‑seeded teams advance directly to the Playoffs.
 
-5. If fewer than 8 teams register, registration will be extended by seven days until November 22, 2026.
-
-6. If fewer than 8 teams remain registered after the extended window, the event will be cancelled for failing to meet minimum competition requirements. Full refunds of registration fees will be issued to all registered teams.
+5. If fewer than 8 teams remain registered, the event will be cancelled for failing to meet minimum competition requirements. Full refunds of registration fees will be issued to all registered teams.
 
 ## Cancellation Policy
-- **Registration Opening – November 15, 2026**: 100% registration-fee refund
-- **November 15, 2026 – November 30, 2026**: 75% of the registration fee will be refunded upon withdrawal
- - **November 30, 2026 (Roster Lock)**: No refunds granted
+- **Registration Opening – November 22, 2026**: 100% registration-fee refund
+- **November 23, 2026 – November 25, 2026**: 50% of the registration fee will be refunded upon withdrawal
+ - **November 26, 2026 (Roster Lock)**: No refunds granted
 
 The event roster will be locked on November 30, 2026. No withdrawals are permitted after the Roster Lock deadline. Any registered team failing to play its scheduled matches will be recorded as a forfeit (FF), and no registration-fee refund will be issued.
 
