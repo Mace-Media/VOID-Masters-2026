@@ -6,7 +6,7 @@
 - **LAN Main Event**: December 25 ‑ December 30, 2026
 
 - **Tournament Operator**: MACE MEDIA
-- **Venue**: China
+- **Visa region**: China
 - **Tier**: Tier 2, open‑registration tournament (open to teams from all global regions)
 - **Team Cap**: Maximum of 22 registered teams
 
@@ -17,22 +17,30 @@
 - **Registration Window**: November 3 ‑ November 22, 2026
 -  The registration link will be published on November 3 via MACE MEDIA Github and official social‑media channels.
 - **Registration Fee**: **$800 USD**
+- Fill the official team application form:
+- Full list of registered teams:
 1. All tournament‑related communications will be sent exclusively to the email address provided on the registration form.
 
-2. If a team fails to complete payment within 48 hours of submitting its registration, its entry will be given to the next team in the waiting list, ranked by registration time.
+2. You have 48 hours to complete the payment and provide proof of payment.
 
-3. If more than 8 but fewer than 22 teams register, vacant bracket slots will receive byes in the Play‑In stage.
+3. If you do not complete the payment within the given timeframe, your spot will be offered to the next team on the waiting list.
 
-4. If exactly 8 teams register, the Play‑In stage will be cancelled; 2 low‑seeded teams advance directly to the Playoffs.
+4. Once we receive the payment along with confirmation that it has been made, your registration will become valid.
 
-5. If fewer than 8 teams remain registered, the event will be cancelled for failing to meet minimum competition requirements. Full refunds of registration fees will be issued to all registered teams.
+5. A total of 22 teams will be accepted in order of payment proof received.
+
+6. If more than 8 but fewer than 22 teams register, vacant bracket slots will receive byes in the Play‑In stage.
+
+7. If exactly 8 teams register, the Play‑In stage will be cancelled; 2 low‑seeded teams advance directly to the Playoffs.
+
+8. If fewer than 8 teams remain registered, the event will be cancelled for failing to meet minimum competition requirements. Full refunds of registration fees will be issued to all registered teams.
 
 ## Cancellation Policy
 - **Registration Opening – November 22, 2026**: 100% registration-fee refund
 - **November 23, 2026 – November 25, 2026**: 50% of the registration fee will be refunded upon withdrawal
  - **November 26, 2026 (Roster Lock)**: No refunds granted
 
-The event roster will be locked on November 30, 2026. No withdrawals are permitted after the Roster Lock deadline. Any registered team failing to play its scheduled matches will be recorded as a forfeit (FF), and no registration-fee refund will be issued.
+The event roster will be locked on November 26, 2026. No withdrawals are permitted after the Roster Lock deadline. Any registered team failing to play its scheduled matches will be recorded as a forfeit (FF), and no registration-fee refund will be issued.
 
 
 ## Additional Information
